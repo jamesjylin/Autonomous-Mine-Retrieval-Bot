@@ -1,0 +1,14 @@
+#include <AFMotor.h>
+
+AF_DCMotor rMotor(3);
+AF_DCMotor lMotor(4);
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(9600);
+  pinMode();
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  
+}
